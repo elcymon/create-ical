@@ -1,0 +1,4 @@
+#Ignore some of the files currently in my repo folder
+*.pptx*
+*.ics
+*.csv
